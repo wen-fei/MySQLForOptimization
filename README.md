@@ -1,3 +1,4 @@
+references www.imooc.com
 # 扛得住的MySQL笔记
 ## 一、什么撑起了双十一大促
 1. web服务器很容易扩展，横向扩展即可，对外提供一样的呢日用
