@@ -173,6 +173,7 @@ references www.imooc.com
 * 查找和删除重复索引
 ![Markdown](http://i2.tiimg.com/602813/49ab525b2313ac2e.png)
 * 查找未被使用过的索引
+TODO: update image url
 
 下面的sql语句可以查找每个数据库上每个表的索引以及索引的使用次数
 ![Markdown](http://i2.tiimg.com/602813/b480163a1d538083.png)
